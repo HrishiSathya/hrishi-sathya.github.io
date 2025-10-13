@@ -1,20 +1,11 @@
 ---
-title: "Teaching experience 2"
+title: "ENAS 151 01: Multivariable Calculus for Engineers"
 collection: teaching
-type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+type: "Undergraduate course"
+venue: "Yale University"
+date: 2024
+location: "New Haven, CT"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+This course provides an introduction to multivariable calculus focusing on applications to engineering problems. 
+Topics include vector-valued functions, vector analysis, partial differentiation, multiple integrals, vector calculus, and the theorems of Green, Stokes, and Gauss.

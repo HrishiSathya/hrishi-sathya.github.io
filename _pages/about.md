@@ -36,8 +36,7 @@ Specifically, I ask: which uncertain parameters are most sensitive to a given ro
     {% continue %}
   {% endunless %}
   <b>{{post.title}}</b>.
-  <a href="{{post.paperurl}}">{{post.papername}}</a> <i>{{post.venue}}</i>,
-    {{post.year}}.<br/><p style="margin:10px;"></p> 
+  <i>{{post.venue}}</i>, {{post.year}}.<br/><p style="margin:10px;"></p> 
 {% endfor %}
 </div>
 
@@ -46,7 +45,9 @@ Specifically, I ask: which uncertain parameters are most sensitive to a given ro
 I am currently a 3rd year Ph.D. student at Yale University in the Department of Mechanical Engineering, advised by Prof. [Ian Abraham](https://engineering.yale.edu/research-and-faculty/faculty-directory/ian-abraham).
 Prior to Yale, I started my research journey at the Robotics, Automation, and Mechatronics (RAM) Lab at Rutgers University, where I was co-advised by Prof. [Jingang Yi](https://mae.rutgers.edu/jingang-yi) and Prof. [Hao Wang](https://cee.rutgers.edu/hao-wang).
 
-I spent aa great deal of my undergraduate studies thinking about methods to ...
+I spent a great deal of my undergraduate studies approached robotics from a (broadly) full-stack perspective, but mainly gravitated towards mechanical design and hardware manufacturing.
+My real interests, however, were more towards the algorithmic foundations in robotics, particularly how we can better understand and predict dynamical systems via unique and elegant control solutions.
+
 
 <!-- 
 This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!

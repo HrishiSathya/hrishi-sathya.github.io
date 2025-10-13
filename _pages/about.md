@@ -30,7 +30,7 @@ Specifically, I ask: which uncertain parameters are most sensitive to a given ro
 
 ### Awards
 
-<div style="font-size:0.9em;">
+<!-- <div style="font-size:0.9em;">
 {% for post in site.awards reversed %}
   {% unless post.selected == true%}
     {% continue %}
@@ -39,7 +39,14 @@ Specifically, I ask: which uncertain parameters are most sensitive to a given ro
   <a href="{{post.paperurl}}">{{post.papername}}</a> <i>{{post.venue}}</i>,
     {{post.year}}.<br/><p style="margin:10px;"></p> 
 {% endfor %}
-</div>
+</div> -->
+<b>Robert Apfel Graduate Fellowship</b>. <i>Yale University</i>, 2023-2024.
+
+<b>James J. Slade Undergraduate Research Fellowship</b>. <i>Rutgers University</i>, 2022-2023.
+
+<b>Aresty Undergraduate Research Fellowship</b>. <i>Rutgers University</i>, 2021-2022.
+
+<b>Dean's List</b>. <i>Rutgers University</i>, 2019-2023.
 
 ### Bio
 

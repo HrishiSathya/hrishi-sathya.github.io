@@ -41,13 +41,10 @@ Specifically, I ask: which uncertain parameters are most sensitive to a given ro
 {% endfor %}
 </div> -->
 <p style="font-size: 0.9em;">
-  <b>Robert Apfel Graduate Fellowship</b>. <i>Yale University</i>, 2023-2024.
-
-  <b>James J. Slade Undergraduate Research Fellowship</b>. <i>Rutgers University</i>, 2022-2023.
-
-  <b>Aresty Undergraduate Research Fellowship</b>. <i>Rutgers University</i>, 2021-2022.
-
-  <b>Dean's List</b>. <i>Rutgers University</i>, 2019-2023.
+  <b>Robert Apfel Graduate Fellowship</b>. <i>Yale University</i>, 2023-2024.<br>
+  <b>James J. Slade Undergraduate Research Fellowship</b>. <i>Rutgers University</i>, 2022-2023.<br>
+  <b>Aresty Undergraduate Research Fellowship</b>. <i>Rutgers University</i>, 2021-2022.<br>
+  <b>Dean's List</b>. <i>Rutgers University</i>, 2019-2023.<br>
 </p>
 
 ### Bio

@@ -55,7 +55,7 @@ Specifically, I ask: which uncertain parameters are most sensitive to a given ro
 I am currently a 3rd year Ph.D. student at Yale University in the Department of Mechanical Engineering, advised by Prof. [Ian Abraham](https://engineering.yale.edu/research-and-faculty/faculty-directory/ian-abraham).
 Prior to Yale, I started my research journey at the Robotics, Automation, and Mechatronics (RAM) Lab at Rutgers University, where I was co-advised by Prof. [Jingang Yi](https://mae.rutgers.edu/jingang-yi) and Prof. [Hao Wang](https://cee.rutgers.edu/hao-wang).
 
-I spent a great deal of my undergraduate studies approached robotics from a (broadly) full-stack perspective, but mainly gravitated towards mechanical design and hardware manufacturing.
+I spent a great deal of my undergraduate studies approaching robotics from a (broadly) full-stack perspective, but mainly gravitated towards mechanical design and hardware manufacturing.
 My real interests, however, were more towards the algorithmic foundations in robotics, particularly how we can better understand and predict dynamical systems via unique and elegant control solutions.
 As I progressed throughout my Ph.D., I wanted to understand more on how we can use the highly structured models found in many model-based control applications to better guide, and potentially accelerate, robot learning under uncertainty, especially under data sparsities. 
 I found that information theory offers some particularly exciting structures that can better guide the data-collection process, and is a potentially useful measure to curate and regulate data for efficient learning.

@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hi there! I'm Hrishi"
+title: "Hi there! I'm Hrishi, a 3rd Year PhD Student at Yale"
 author_profile: true
 redirect_from: 
   - /about/

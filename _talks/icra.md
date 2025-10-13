@@ -8,6 +8,5 @@ date: 2025-05-23
 location: "Atlanta, Georgia, USA"
 ---
 
-Spotlight presentation on "Structured Parameter Learning via Contact-Aware Fisher Information Maximization".
-
+Spotlight presentation on "Structured Parameter Learning via Contact-Aware Fisher Information Maximization". 
 [Workshop webpage](https://sites.google.com/view/srl-icra-2025/home)

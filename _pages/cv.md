@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-For an updated, resume, click [here](/files/sathyanarayan_resume.pdf).
+For an updated resume, click [here](../files/sathyanarayan_resume.pdf).

@@ -2,7 +2,7 @@
 title: "Spotlight Presentation at CoRL Differential Optimization Everywhere Workshop"
 collection: talks
 type: "Tutorial"
-permalink: /talks/2013-03-01-tutorial-1
+permalink: /talks/icra
 venue: "Conference on Robot Learning"
 date: 2024-11-09
 location: "Munich, Germany"

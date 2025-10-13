@@ -1,7 +1,7 @@
 ---
 title: "Dynamic Tire/Road Friction Estimation With Embedded Flexible Force Sensors"
 collection: publications
-category: journal
+category: manuscripts
 excerpt: 'This paper investigates experimental studies of tire-road friction estimation via flexible force sensors.'
 date: 2023-11-01
 venue: 'IEEE Sensors Journal'

@@ -9,4 +9,5 @@ location: "Munich, Germany"
 ---
 
 Spotlight presentation on "Structured Parameter Learning via Contact-Aware Fisher Information Maximization".
+
 [Workshop webpage](https://sites.google.com/view/srl-icra-2025/home)

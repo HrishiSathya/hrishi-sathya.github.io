@@ -47,7 +47,10 @@ Prior to Yale, I started my research journey at the Robotics, Automation, and Me
 
 I spent a great deal of my undergraduate studies approached robotics from a (broadly) full-stack perspective, but mainly gravitated towards mechanical design and hardware manufacturing.
 My real interests, however, were more towards the algorithmic foundations in robotics, particularly how we can better understand and predict dynamical systems via unique and elegant control solutions.
+As I progressed throughout my Ph.D., I wanted to understand more on how we can use the highly structured models found in many model-based control applications to better guide, and potentially accelerate, robot learning under uncertainty, especially under data sparsities. 
+I found that information theory offers some particularly exciting structures that can better guide the data-collection process, and is a potentially useful measure to curate and regulate data for efficient learning.
 
+Outside of the lab, I try to seize any opportunity to hike and enjoy the outdoors (which I've been told is a common hobby amongst robocists?), play tennis, or try new restaurants in the New Haven area! 
 
 <!-- 
 This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!

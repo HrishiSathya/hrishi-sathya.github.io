@@ -3,7 +3,7 @@ title: "MENG 390 01: Mechatronics Laboratory"
 collection: teaching
 type: "Undergraduate/Graduate course"
 venue: "Yale University"
-date: "Spring 2025"
+date: 2025-01-19
 location: "New Haven, CT"
 ---
 

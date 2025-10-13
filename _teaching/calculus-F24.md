@@ -3,7 +3,7 @@ title: "ENAS 151 01: Multivariable Calculus for Engineers"
 collection: teaching
 type: "Undergraduate course"
 venue: "Yale University"
-date: "Fall 2024"
+date: 2024-09-09
 location: "New Haven, CT"
 ---
 

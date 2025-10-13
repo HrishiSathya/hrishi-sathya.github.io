@@ -1,11 +1,11 @@
 ---
-title: "Spotlight Presentation at CoRL Differential Optimization Everywhere Workshop"
+title: "Spotlight Presentation at ICRA 2025 Workshop on Structured Learning for Efficient, Reliable, and Transparent Robots"
 collection: talks
 type: "Tutorial"
 permalink: /talks/icra
-venue: "Conference on Robot Learning"
-date: 2024-11-09
-location: "Munich, Germany"
+venue: "International Conference on Robotics and Automation (ICRA)"
+date: 2025-05-23
+location: "Atlanta, Georgia, USA"
 ---
 
 Spotlight presentation on "Structured Parameter Learning via Contact-Aware Fisher Information Maximization".

@@ -5,4 +5,4 @@ selected: true
 venue: 'Rutgers University'
 year: 2021
 ---
-Awarded to undergraduate students pursuing research across all schools at Rutgers University.
+<!-- Awarded to undergraduate students pursuing research across all schools at Rutgers University. -->

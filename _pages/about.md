@@ -1,12 +1,51 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Hi there! I'm Hrishi"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
+### Research Interests
+
+My research lies at the intersection of information theory, data-efficient robot learning, contact dynamics, and optimal control.
+Particularly, I am interested in how we can use mathematical tools found in information theory to allow robots to learn efficiently under data sparsities.
+Robot manipulation operates particularly under data-sparse regimes, and are increasingly required to learn fine motor skills in a world filled with uncertainty.
+My research aims on asking the questions: can we exploit the informative nature of contact mechanics to eliminate and reason over physics-based parameter uncertainties?
+What uncertain parameters, in particular, are most sensitive to my deployed robot policy?
+And, can we still optimally solve manipulation tasks despite high parameter uncertainties?
+
+### Publications
+
+<div style="font-size:0.9em;">
+{% for post in site.publications reversed %}
+  {% unless post.selected == true%}
+    {% continue %}
+  {% endunless %}
+  <a href="{{post.paperurl}}">{{post.title}}</a> <p style="margin:-2px;">{{post.authors}}. <i>{{post.venue}}</i>, 
+      <span style="color:#C41230"><b>{{post.award}}</b></span>
+    {{post.year}}.<br/></p ><p style="margin:10px;"></p> 
+{% endfor %}
+</div>
+
+### Awards
+
+<div style="font-size:0.9em;">
+{% for post in site.awards reversed %}
+  {% unless post.selected == true%}
+    {% continue %}
+  {% endunless %}
+  <b>{{post.title}}</b>.
+  <a href="{{post.paperurl}}">{{post.papername}}</a> <i>{{post.venue}}</i>,
+    {{post.year}}.<br/><p style="margin:10px;"></p> 
+{% endfor %}
+</div>
+
+### Bio
+
+
+<!-- 
 This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
 
  You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
@@ -53,4 +92,4 @@ Example: editing a Markdown file for a talk
 
 For more info
 ------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful. -->

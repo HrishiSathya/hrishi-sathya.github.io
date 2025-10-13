@@ -10,11 +10,10 @@ redirect_from:
 ### Research Interests
 
 My research lies at the intersection of information theory, data-efficient robot learning, contact dynamics, and optimal control.
-Particularly, I am interested in how we can use mathematical tools found in information theory to allow robots to learn efficiently under data sparsities.
-Robot manipulation operates particularly under data-sparse regimes, and are increasingly required to learn fine motor skills in a world filled with uncertainty.
-My research aims on asking the questions: can we exploit the informative nature of contact mechanics to eliminate and reason over physics-based parameter uncertainties?
-What uncertain parameters, in particular, are most sensitive to my deployed robot policy?
-And, can we still optimally solve manipulation tasks despite high parameter uncertainties?
+Particularly, I am interested in leveraging mathematical tools found in information theory to enable robots to learn efficiently under data sparse conditions.
+Robot manipulation often operates under such regimes, and are increasingly required to learn fine motor skills in a world filled with uncertainty.
+My work explores whether we can exploit the[ inherently informative nature of contact mechanics to infer and reason about physics-based parameter uncertainties](https://arxiv.org/pdf/2505.12214).
+Specifically, I ask: which uncertain parameters are most sensitive to a given robot policy, and can we still achieve optimal manipulation performance despite significant uncertainty?
 
 ### Publications
 

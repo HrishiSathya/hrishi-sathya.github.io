@@ -1,7 +1,7 @@
 ---
 title: "Spotlight Presentation at CoRL Differential Optimization Everywhere Workshop"
 collection: talks
-type: "Tutorial"
+type: "Workshop"
 permalink: /talks/corl
 venue: "Conference on Robot Learning"
 date: 2024-11-09
